@@ -1,0 +1,7 @@
+C:\Users\CURLING\source\repos\clase1tiposdatos\clase1tiposdatos\obj\Debug\clase1tiposdatos.csproj.AssemblyReference.cache
+C:\Users\CURLING\source\repos\clase1tiposdatos\clase1tiposdatos\obj\Debug\clase1tiposdatos.csproj.CoreCompileInputs.cache
+C:\Users\CURLING\source\repos\clase1tiposdatos\clase1tiposdatos\bin\Debug\clase1tiposdatos.exe.config
+C:\Users\CURLING\source\repos\clase1tiposdatos\clase1tiposdatos\bin\Debug\clase1tiposdatos.exe
+C:\Users\CURLING\source\repos\clase1tiposdatos\clase1tiposdatos\bin\Debug\clase1tiposdatos.pdb
+C:\Users\CURLING\source\repos\clase1tiposdatos\clase1tiposdatos\obj\Debug\clase1tiposdatos.exe
+C:\Users\CURLING\source\repos\clase1tiposdatos\clase1tiposdatos\obj\Debug\clase1tiposdatos.pdb
